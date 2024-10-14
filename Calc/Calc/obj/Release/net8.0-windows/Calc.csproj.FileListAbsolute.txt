@@ -1,0 +1,17 @@
+E:\VisualStudioSourceRepos\Calc\Calc\bin\Release\net8.0-windows\Calc.exe
+E:\VisualStudioSourceRepos\Calc\Calc\bin\Release\net8.0-windows\Calc.deps.json
+E:\VisualStudioSourceRepos\Calc\Calc\bin\Release\net8.0-windows\Calc.runtimeconfig.json
+E:\VisualStudioSourceRepos\Calc\Calc\bin\Release\net8.0-windows\Calc.dll
+E:\VisualStudioSourceRepos\Calc\Calc\bin\Release\net8.0-windows\Calc.pdb
+E:\VisualStudioSourceRepos\Calc\Calc\obj\Release\net8.0-windows\Calc.CustomControl1.resources
+E:\VisualStudioSourceRepos\Calc\Calc\obj\Release\net8.0-windows\Calc.Калькулятор.resources
+E:\VisualStudioSourceRepos\Calc\Calc\obj\Release\net8.0-windows\Calc.csproj.GenerateResource.cache
+E:\VisualStudioSourceRepos\Calc\Calc\obj\Release\net8.0-windows\Calc.GeneratedMSBuildEditorConfig.editorconfig
+E:\VisualStudioSourceRepos\Calc\Calc\obj\Release\net8.0-windows\Calc.AssemblyInfoInputs.cache
+E:\VisualStudioSourceRepos\Calc\Calc\obj\Release\net8.0-windows\Calc.AssemblyInfo.cs
+E:\VisualStudioSourceRepos\Calc\Calc\obj\Release\net8.0-windows\Calc.csproj.CoreCompileInputs.cache
+E:\VisualStudioSourceRepos\Calc\Calc\obj\Release\net8.0-windows\Calc.dll
+E:\VisualStudioSourceRepos\Calc\Calc\obj\Release\net8.0-windows\refint\Calc.dll
+E:\VisualStudioSourceRepos\Calc\Calc\obj\Release\net8.0-windows\Calc.pdb
+E:\VisualStudioSourceRepos\Calc\Calc\obj\Release\net8.0-windows\Calc.genruntimeconfig.cache
+E:\VisualStudioSourceRepos\Calc\Calc\obj\Release\net8.0-windows\ref\Calc.dll
